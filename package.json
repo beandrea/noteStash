@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/beandrea/noteStash#readme",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.1",
     "uuid": "^3.4.0"
   }
 }
